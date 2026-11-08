@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+PyMuPDF
+nltk
+matplotlib
+tqdm
+openpyxl
