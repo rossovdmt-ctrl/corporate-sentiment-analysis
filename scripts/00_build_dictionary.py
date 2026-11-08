@@ -3,6 +3,8 @@ import re
 import pickle
 import subprocess
 import sys
+import setuptools
+import pkg_resources
 
 # Добавляем путь к src
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
